@@ -1,5 +1,5 @@
 import { createContext } from "react";
 
-export const CerdContext = createContext({
+export const CartContext = createContext({
   items: [],
 });
